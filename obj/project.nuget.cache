@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYEsaxwWNx5a0yP423HOTx/P1GvSS9kbjx9BJ1QLaXA+j33PWV241WWbhcb/YhUp2h2yj3eUEZY6xHonVicCiA==",
+  "dgSpecHash": "n4Q8xgAaBbfpXwJ7DOqUgByGiIpBZPZmIH3GMNQawq1mxXq1KNak31e7CDU9K2kQhyVP8YGUAe6N/I2Qvmktxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\6143440\\Documents\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj",
+  "projectFilePath": "C:\\MyTraining\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

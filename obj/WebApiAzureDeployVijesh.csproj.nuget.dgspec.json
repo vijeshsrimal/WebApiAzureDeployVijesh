@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6143440\\Documents\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj": {}
+    "C:\\MyTraining\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6143440\\Documents\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj": {
+    "C:\\MyTraining\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6143440\\Documents\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj",
+        "projectUniqueName": "C:\\MyTraining\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj",
         "projectName": "WebApiAzureDeployVijesh",
-        "projectPath": "C:\\Users\\6143440\\Documents\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj",
+        "projectPath": "C:\\MyTraining\\WebApiAzureDeployVijesh\\WebApiAzureDeployVijesh.csproj",
         "packagesPath": "C:\\Users\\6143440\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6143440\\Documents\\WebApiAzureDeployVijesh\\obj\\",
+        "outputPath": "C:\\MyTraining\\WebApiAzureDeployVijesh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
